@@ -4,18 +4,8 @@
   "version": "0.4.7.2",
   "default_locale": "en",
   "description": "__MSG_extensionDescription__",
-  "permissions": [
-    "tabs",
-    "storage",
-    "<all_urls>",
-    "webNavigation",
-    "webRequest",
-    "webRequestBlocking",
-    "contextMenus"
-  ],
-  "optional_permissions": [
-    "cookies"
-  ],
+  "permissions": [],
+  "optional_permissions": [],
   "icons": {
     "16": "data/icons/active/16.png",
     "18": "data/icons/active/18.png",
@@ -27,9 +17,6 @@
     "64": "data/icons/active/64.png",
     "128": "data/icons/active/128.png",
     "256": "data/icons/active/256.png"
-  },
-  "storage": {
-    "managed_schema": "schema.json"
   },
   "background":{
     "scripts":[
