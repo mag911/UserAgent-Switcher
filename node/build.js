@@ -195,4 +195,3 @@ fs.readdir('../extension/firefox/data/popup/browsers/', async (err, files) => {
   };
   once();
 });
-
