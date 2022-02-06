@@ -15,7 +15,7 @@ Notes:
 8. This extension supports managed storage so that preferences can be altered automatically or can be pre-configured by a domain administrator
 
 Supported operating systems:
-Windows, Mac OS, Linux, Chromium OS, Ubuntu, Debian, Android, iOS, AmigaOS, OpenBSD, BeOS, Haiku, Solaris, NetBSD, FreeBSD, Slackware, SUSE, gentoo, Fedora, Gentoo, Mageia, CentOS, Mint, DragonFly, Kubuntu, Mandriva, Zenwalk, Unix, GNU, OS/2, AIX, QNX, BEOS, RISC OS, Symbian, Nintendo, OpenSolaris, Kubuntu
+Any OS that runs Firefox with add-ons.
 
 Supported browsers:
 Firefox and any derivatives.
